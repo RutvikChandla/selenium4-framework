@@ -23,8 +23,6 @@ exports.config = {
     browserName: 'firefox'
   },{
     browserName: 'internet explorer'
-  },{
-    browserName: 'safari'
   }],
 
   logLevel: 'warn',

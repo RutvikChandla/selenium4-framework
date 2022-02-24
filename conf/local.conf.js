@@ -15,7 +15,7 @@ exports.config = {
       browserName: 'Chrome',
       'bstack:options' : {
         os : "Windows",
-        osVersion : "10",
+        osVersion : "11",
         sessionName: 'local_test',
         buildName: 'browserstack-build-1',
         local: true
